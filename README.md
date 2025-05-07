@@ -8,10 +8,10 @@ Este repositório contém um tutorial passo a passo para instalar o Docker Engin
 ### Passos para Instalação
 
 ## Passo 1: Assistir ao Vídeo Tutorial
-Assista ao vídeo explicativo sobre o Docker e WSL2 no [YouTube](https://www.youtube.com/watch?v=wpdcGgRY5kk).
+Vídeo explicativo sobre o Docker e WSL2 no [YouTube](https://www.youtube.com/watch?v=wpdcGgRY5kk).
 
 ## Passo 2: Acessar o Repositório no GitHub
-Para o tutorial completo, incluindo código e explicações detalhadas, acessar: [Repositório GitHub do tutorial WSL2 Docker](https://github.com/codeedu/wsl2-docker-quickstart).
+O tutorial completo, incluindo código e explicações detalhadas, acessar: [Repositório GitHub do tutorial WSL2 Docker](https://github.com/codeedu/wsl2-docker-quickstart).
 
 ## Passo 3: Consultar a Documentação do Docker
 Para mais informações sobre o Docker, consultar: [Documentação Oficial do Docker](https://docs.docker.com/).
